@@ -1,0 +1,1090 @@
+@media (max-width: 1199.98px) {
+}
+@media (max-width: 991.98px) { 
+    /* home_page_meadia-querry========================================== */
+    .item_wrapper{
+        display: block;
+    }
+    .top_title{
+        font-size: 25px;
+        text-align: center;
+    }
+    .mid_title{
+        font-size: 25px;
+        text-align: center;
+    }
+    .bottom_title{
+        text-align: center;
+        font-size: 20px;
+    }
+    .carosal_image img{
+        max-width: 50%;
+    }
+    .sport_list{
+        justify-content: center;
+    }
+    .sport_list li a{
+        width: 159px;
+        height: 50px;
+        font-size: 12px;
+    }
+    .carosal_image{
+        display: flex;
+        align-items: center;
+        justify-content:center;
+        padding-top: 20px;
+    }
+    .top_section{
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    .right-arrow{
+        display: none;
+    }
+    .col_btn{
+        width: 100%;
+        margin: 0px 3px 8px;
+    }
+    .title{
+        font-size: 16px;
+        color: #ffffff;
+    }
+    .download-btn{
+        text-align: center;
+    }
+    .app_title_base{
+        text-align: center;
+    }
+    .app_title_base strong{
+        font-size: 25px;
+    }
+    .app_title_base h5 {
+        font-size: 25px;
+    }
+    .testimonial_title h3{
+        font-size: 28px;
+    } 
+    .app_image{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .app_image img{
+        max-width: 50%;
+    }
+    .item_1{
+        text-align: center;
+    }
+    .item{
+        text-align: center;
+    }
+    .social_icon_listing ul{
+        flex-wrap: wrap;
+    }
+    .social_icon_listing ul li a{
+        width: 50%;
+    }
+    .app_wrapper .app_slider .owl-theme  .owl-dot span{
+        display: none;
+    }
+    .tab_part .bottom_tabs{
+        background-color: #000;
+    }
+    .tab_part .bottom_tabs{
+        background-color: #000;
+    }
+    .tab_part .bottom_tabs ul li a{
+        background-color:#1f1f1f;
+    }
+    .tab_part .bottom_tabs ul li .active{
+        background-color: #1f1f1f;
+        box-shadow: unset;
+    }
+    .tab_part .bottom_tabs ul li .active:hover{
+        background-color: #a6de7f;
+    }
+    .tab_part .bottom_tabs ul li a:hover{
+        box-shadow: unset;
+    }
+    .tab_part .bottom_tabs ul li.big::before{
+        background: #252525;
+        box-shadow: none;
+    }
+    .testimonial-section{
+        background-size: contain;
+        background-position-y: 0%;
+    }
+    .right_icon .right_list  li .active{
+        background-color:#7ab95b;
+        display: inline-flex;
+    }
+    /* home_page_meadia-querry========================================== */
+    .burger_menu{
+        display: block;
+        margin: 0px 5px;
+    }
+    .main_left_sidebar{
+        position: fixed;
+        left: -100%;
+        flex-direction: column;
+        background-color:#5dae32;
+        width:75%;
+        text-align: center;
+        transition: 0.5s;
+        height: 100%;
+        z-index:99999;
+        top: 0;
+        border-radius: 0;
+    }
+    .sidebar_accordian .accordion-button{
+        background-color:#5dae32;
+        color: #ffffff;
+        transition: 0.3s ease-out;
+        padding: 10px 9px;
+        border-radius: 5px;
+    }  
+    .sidebar_accordian .accordion-button:not(.collapsed) {
+        background-color:#5dae32;
+    }.sidebar_accordian .accordion-body {
+        background-color:#5dae32;
+    }
+    .collapsible li a{
+        color: #ffffff;
+        text-align: left;
+    }
+    .left_sidebar_title{
+        display: none;
+    }
+    .sidebar_accordian .accordion-button.collapsed::after{
+        color: #ffffff;
+    }
+    .sidebar_accordian .accordion-button[aria-expanded="true"]::after {
+    
+        color: #fff;
+    }
+    .page_header .logo_search{
+        display:none;
+    }
+    .header_mid_aside{
+        display: none;
+    }
+    .logo_image{
+        max-width: 155px;
+    }
+    .right_list li a{
+        padding: 5px 5px;
+    
+    }
+    .right_list li .active{
+        display: none;
+    }
+    .sidebar_accordian .accordion-button:focus{
+        background-color:#5dae32;  
+    }
+    .left_fix_menu{
+        display: flex;
+        align-items: center;
+    }
+    .fix_menu_wrapper{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .right_fix_menu ul li a svg{
+        width: 17px;
+        height: 17px;
+    }
+   
+    .right_fix_menu ul li a svg path{
+        fill: #ffffff;
+    }
+    .right_fix_menu ul li{
+        margin-left: 5px;
+    }
+    .arrow_link{
+        margin: 0px 4px;
+    }
+    .serch_input{
+        width:150px;
+        background-color: #7ab95b;
+    }
+    .right_fix_menu ul{
+        display: flex;
+        align-items: center;
+    }
+    .right_fix_menu ul li a{
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-color:#7ab95b;
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+    }
+    .page_logo{
+        margin-right: 15px;
+    }
+    .arrow_link a i{
+        color: #ffffff;
+        font-size: 18px;
+    }
+    .accordian-item{
+        display: block;
+        text-align: left;
+    }
+    
+    .sidebar_accordian{
+        margin-top: 20px;
+    }
+    .sidebar_accordian .accordion-button.demo{
+        font-size: 14px;
+        font-weight: 600;
+        color: #ffffff;
+        padding: 10px 9px;
+        border-radius: 5px;
+    }
+    .sidebar_accordian .accordion-item{
+        background:none;
+    }
+    .sidebar_accordian .accordion-button.demo svg{
+        width: 22px;
+        height: 22px;
+        margin-right: 5px;
+    }
+    .sidebar_accordian .accordion-button.demo::after{
+        display: none;
+    }
+  
+    .mobile-nav_slide{
+        width: 100%;
+        margin: 0;
+    }
+    .left_sidebar{
+        padding: 0;
+        position: unset;
+        left: unset;
+        right: unset;
+    }
+    
+    .right_sidebar{
+        width: 100%;
+        position:unset;
+        height: auto;
+    }
+    .icons{
+        text-align:left;
+    }
+    .contact-details{
+        text-align: left;
+    }
+    .mobile_bg img{
+        display: none;
+    }
+    .login_page .modal-body{
+        display: block;
+        padding: 45px 30px 30px;
+    }
+    .widraw{
+        display: none;
+    }
+    .scroll_slider{
+        flex-wrap: wrap;
+    }
+    
+    .bottom_tabs{
+        position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color:#ffffff;
+    font-size: 13px;
+    z-index: 99;
+    background-color: #a6de7f;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    display: block;
+    }
+    .bottom_tabs ul{
+        display: flex;
+    }
+    .bottom_tabs ul li .active{
+       
+        width: 41px;
+        height: 41px;
+        margin-bottom: auto;
+    }
+    .bottom_tabs ul li a{
+        width: 37px;
+    height: 37px;
+    margin: auto;
+    background-color:#5dae32;
+    border-radius: 50%;
+    align-items: center;
+    top: 0;
+    transition: all .2s ease-in;
+    color:#000;
+    cursor: pointer;
+    font-size: 11px;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    letter-spacing: .3px;
+    margin-top: 10px;
+    }
+    .bottom_tabs ul li {
+        align-items: center;
+    height: 70px;
+    flex-basis: 20%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+    .bottom_tabs ul li a svg{
+        display: inline-block;
+        margin: auto;
+        width: 23px;
+        height: 23px;
+    }
+    .bottom_tabs ul li.all-sports a.active svg path, .bottom_tabs ul li.all-sports a:hover svg path {
+        stroke: none;
+        fill:#fff;
+    }
+    .bottom_tabs ul li a.blank-bg {
+        background-color: transparent;
+        width: auto;
+        height: auto;
+    }
+    .bottom_tabs ul li.big::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: -17px;
+        width: 60px;
+        height: 60px;
+        background-color: #A6DE7F;
+        border-radius: 100%;
+        z-index: -1;
+        margin: auto;
+        box-shadow:-4.58667px 4.58667px 9.17333px rgba(230, 230, 230, 0.2),4.58667px -4.58667px 9.17333px rgba(230, 230, 230, 0.2),-4.58667px -4.58667px 9.17333px rgba(255, 255, 255, 0.9),4.58667px 4.58667px 11.9253px rgba(230, 230, 230, 0.9),inset -0.917333px -0.917333px 1.83467px rgba(230, 230, 230, 0.5);
+    }
+    .bottom_tabs ul li.big a img {
+        width: auto;
+        height: 35px;
+    }
+    .title_name{
+        color:#595959;
+    z-index: 9;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.3;
+    margin-bottom: 2px;
+    }
+    .bottom_tabs ul li a svg circle, .bottom-tabs ul li a svg path {
+        stroke:#fff;
+    }
+ .bottom_tabs ul li a svg path {
+        stroke: #fff;
+    }
+    .bottom-tabs ul li.all-sports a svg path {
+        stroke: none;
+        fill:#fff;
+    }
+    .bottom_tabs ul li a img {
+        width: 25px;
+        height: 25px;
+        display: inline-block;
+        margin: auto;
+        transition: all .2s ease-in;
+    }
+    .bottom_tabs ul li a.active, .bottom_tabs ul li a:hover {
+        background-color: #a6de7f;
+        box-shadow: -4px 3px 4px #8bc34a,0px 0px 0px #8bc34a,-3px 1px 1px #8bc34a,0px 0px 0px #8bc34a,inset 0px 1px 1px #bafd6c,inset 0px -1px 1px #8bc34a;;
+        width: 41px;
+        height: 41px;
+        margin-bottom: auto;
+    }
+    .bottom_tabs ul li.big a {
+        position: relative;
+        color:#000;
+        top: -20px;
+        background-color: transparent;
+        width: auto;
+        height: auto;
+        margin-top: auto;
+    }
+    .bottom-tabs ul li.big::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: -17px;
+        width: 60px;
+        height: 60px;
+        background-color: var(--bottom-tab-bg);
+        border-radius: 100%;
+        z-index: -1;
+        margin: auto;
+       
+    }
+    .market_row{
+        display: block;
+    }
+    .basic_row{
+       width: 100%;
+       margin-bottom: 10px;
+    }
+    .table_row{
+        width: 100%;
+        display: block;
+    }
+    .text{
+        text-align: center;
+    }
+    .badge-right ul{
+        justify-content: flex-end;
+        margin-bottom: 2px;
+    }
+    .game_name{
+        font-size: 10px;
+    }
+    .all_casion_game{
+        flex-direction: column-reverse;
+    }
+    .game_provider{
+        width: 100%;
+    }
+    .game_provider ul{
+        width: 100%;
+    }
+    .all_providers{
+        width: 100%;
+    }
+    .game_provider ul li a{
+        justify-content: flex-start;
+        width: 100%;
+    }
+    .casion_tabs{
+        width: 100%;
+    }
+    .casion_tabs ul{
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+    .port-inner{
+        width: 50%;
+    }
+    .sports_col{
+        display: block;
+    }
+    .sports_image img{
+       max-width: 100%;
+    }
+    .download-btn{
+        padding: 20px 0px;
+    }
+    .download_link{
+        width: 140px;
+        height: 45px;
+    }
+    .open_bet_row .form-select{
+        margin-bottom: 5px;
+    } 
+    .open_bet_row .form-select.select_form {
+       width: 100%;
+       
+    }
+    .date_picker .kyc-dropdown{
+        margin-right:2px;
+    }
+    
+    /* reporting_page_mediaquerry============================= */
+.news_feed{
+    padding-left: 5px;
+    top: 65px;
+}
+.mobile-nav_slide.nav_slide_mobile {
+    width:100%;
+    margin: 0px 0px 0px 0px;
+}
+.wrapper_gamepage.gamepage_wrapper{
+    display: block;
+}
+.bottom-content{
+    display: block;
+}
+.bottom-content .bottom_discription{
+    width: 100%;
+    padding: 6px 0px 0px;
+    margin: 18px 0px 0px;
+}
+.user_col{
+    margin-bottom: 10px;
+    height: unset;
+}
+.nav.navigation{
+   
+    flex-wrap: nowrap;
+    overflow: auto;
+}
+.nav.navigation::-webkit-scrollbar{
+    overflow: hidden;
+}
+.data_table{
+    overflow: auto;
+}
+.data_table::-webkit-scrollbar{
+    overflow: hidden; 
+}
+.user-settings{
+    display: none;
+}
+.hide_on{
+    display: none;
+}
+.avtar{
+    display: none;
+}
+.upload-id{
+    width: 100%;
+}
+.kyc-dropdown{
+    max-width: 100%;
+}
+.date_picker{
+    display: block;
+}
+.no-wallet a{
+    width: auto;
+    min-width: 89px;
+}
+.deposit a{
+    height: 33px;
+    line-height: 33px;
+    font-size: 11px;
+    width: 73px;
+    min-width: 70px;
+    margin-left: auto;
+    top: 0;
+    position: relative;
+}
+.upload-id .btn a{
+    top: 0;
+}
+.upload-id .btn .file_input[type=file]{
+    position: unset;
+}
+.data_table .dataTables_length{
+    text-align: left;
+}
+
+.data_table .dataTables_wrapper .dataTables_filter {
+    text-align: left;
+}
+
+    /* reporting_page_mediaquerry============================= */
+  
+}
+@media (max-width: 767.98px) { 
+
+    .burger_menu{
+        display: block;
+        margin: 0px 5px;
+    }
+    .main_left_sidebar{
+        position: fixed;
+        left: -100%;
+        flex-direction: column;
+        background-color:#5dae32;
+        width:75%;
+        text-align: center;
+        transition: 0.5s;
+        height: 100%;
+        z-index:99999;
+        top: 0;
+        border-radius: 0;
+    }
+    .sidebar_accordian .accordion-button{
+        background-color:#5dae32;
+        color: #ffffff;
+        transition: 0.3s ease-out;
+        padding: 10px 9px;
+        border-radius: 5px;
+    }
+    
+    .sidebar_accordian .accordion-button:not(.collapsed) {
+        background-color:#5dae32;
+    }.sidebar_accordian .accordion-body {
+        background-color:#5dae32;
+    }
+    .collapsible li a{
+        color: #ffffff;
+        text-align: left;
+    }
+    .left_sidebar_title{
+        display: none;
+    }
+    .sidebar_accordian .accordion-button.collapsed::after{
+        color: #ffffff;
+    }
+    .sidebar_accordian .accordion-button[aria-expanded="true"]::after {
+    
+        color: #fff;
+    }
+    .page_header .logo_search{
+        display:none;
+    }
+    .header_mid_aside{
+        display: none;
+    }
+    .logo_image{
+        max-width: 120px;
+    }
+    .right_list li a{
+        padding: 5px 5px;
+    
+    }
+    .right_list li .active{
+        display: none;
+    }
+    .sidebar_accordian .accordion-button:focus{
+        background-color:#5dae32;  
+    }
+    .left_fix_menu{
+        display: flex;
+        align-items: center;
+    }
+    .fix_menu_wrapper{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .right_fix_menu ul li a svg{
+        width: 17px;
+        height: 17px;
+    }
+   
+    .right_fix_menu ul li a svg path{
+        fill: #ffffff;
+    }
+    .right_fix_menu ul li{
+        margin-left: 5px;
+    }
+    .arrow_link{
+        margin: 0px 4px;
+    }
+    .serch_input{
+        width:150px;
+        background-color: #7ab95b;
+    }
+    .right_fix_menu ul{
+        display: flex;
+        align-items: center;
+    }
+    .right_fix_menu ul li a{
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-color:#7ab95b;
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+    }
+    .page_logo{
+        margin-right: 15px;
+    }
+    .arrow_link a i{
+        color: #ffffff;
+        font-size: 18px;
+    }
+    .accordian-item{
+        display: block;
+        text-align: left;
+    }
+    
+    .sidebar_accordian{
+        margin-top: 20px;
+    }
+    .sidebar_accordian .accordion-button.demo{
+        font-size: 14px;
+        font-weight: 600;
+        color: #ffffff;
+        padding: 10px 9px;
+        border-radius: 5px;
+    }
+    .sidebar_accordian .accordion-item{
+        background:none;
+    }
+    .sidebar_accordian .accordion-button.demo svg{
+        width: 22px;
+        height: 22px;
+        margin-right: 5px;
+    }
+    .sidebar_accordian .accordion-button.demo::after{
+        display: none;
+    }
+  
+    .mobile-nav_slide{
+        width: 100%;
+        margin: 0;
+    }
+    .left_sidebar{
+        padding: 0;
+        position: unset;
+        left: unset;
+        right: unset;
+    }
+    
+    .right_sidebar{
+        width: 100%;
+        position:unset;
+        height: auto;
+    }
+    .icons{
+        text-align:left;
+    }
+    .contact-details{
+        text-align: left;
+    }
+    .mobile_bg img{
+        display: none;
+    }
+    .login_page .modal-body{
+        display: block;
+        padding: 45px 30px 30px;
+    }
+    .widraw{
+        display: none;
+    }
+    .scroll_slider{
+        flex-wrap: wrap;
+    }
+    
+    .bottom_tabs{
+        position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color:#ffffff;
+    font-size: 13px;
+    z-index: 99;
+    background-color: #a6de7f;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    display: block;
+    }
+    .bottom_tabs ul{
+        display: flex;
+    }
+    .bottom_tabs ul li .active{
+       
+        width: 41px;
+        height: 41px;
+        margin-bottom: auto;
+    }
+    .bottom_tabs ul li a{
+        width: 37px;
+    height: 37px;
+    margin: auto;
+    background-color:#5dae32;
+    border-radius: 50%;
+    align-items: center;
+    top: 0;
+    transition: all .2s ease-in;
+    color:#000;
+    cursor: pointer;
+    font-size: 11px;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    letter-spacing: .3px;
+    margin-top: 10px;
+    }
+    .bottom_tabs ul li {
+        align-items: center;
+    height: 70px;
+    flex-basis: 20%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+    .bottom_tabs ul li a svg{
+        display: inline-block;
+        margin: auto;
+        width: 23px;
+        height: 23px;
+    }
+    .bottom_tabs ul li.all-sports a.active svg path, .bottom_tabs ul li.all-sports a:hover svg path {
+        stroke: none;
+        fill:#fff;
+    }
+    .bottom_tabs ul li a.blank-bg {
+        background-color: transparent;
+        width: auto;
+        height: auto;
+    }
+    .bottom_tabs ul li.big::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: -17px;
+        width: 60px;
+        height: 60px;
+        background-color: #A6DE7F;
+        border-radius: 100%;
+        z-index: -1;
+        margin: auto;
+        box-shadow:-4.58667px 4.58667px 9.17333px rgba(230, 230, 230, 0.2),4.58667px -4.58667px 9.17333px rgba(230, 230, 230, 0.2),-4.58667px -4.58667px 9.17333px rgba(255, 255, 255, 0.9),4.58667px 4.58667px 11.9253px rgba(230, 230, 230, 0.9),inset -0.917333px -0.917333px 1.83467px rgba(230, 230, 230, 0.5);
+    }
+    .bottom_tabs ul li.big a img {
+        width: auto;
+        height: 35px;
+    }
+    .title_name{
+        color:#595959;
+    z-index: 9;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.3;
+    margin-bottom: 2px;
+    }
+    .bottom_tabs ul li a svg circle, .bottom-tabs ul li a svg path {
+        stroke:#fff;
+    }
+ .bottom_tabs ul li a svg path {
+        stroke: #fff;
+    }
+    .bottom-tabs ul li.all-sports a svg path {
+        stroke: none;
+        fill:#fff;
+    }
+    .bottom_tabs ul li a img {
+        width: 25px;
+        height: 25px;
+        display: inline-block;
+        margin: auto;
+        transition: all .2s ease-in;
+    }
+    .bottom_tabs ul li a.active, .bottom_tabs ul li a:hover {
+        background-color: #a6de7f;
+        box-shadow: -4px 3px 4px #8bc34a,0px 0px 0px #8bc34a,-3px 1px 1px #8bc34a,0px 0px 0px #8bc34a,inset 0px 1px 1px #bafd6c,inset 0px -1px 1px #8bc34a;;
+        width: 41px;
+        height: 41px;
+        margin-bottom: auto;
+    }
+    .bottom_tabs ul li.big a {
+        position: relative;
+        color:#000;
+        top: -20px;
+        background-color: transparent;
+        width: auto;
+        height: auto;
+        margin-top: auto;
+    }
+    .bottom-tabs ul li.big::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: -17px;
+        width: 60px;
+        height: 60px;
+        background-color: var(--bottom-tab-bg);
+        border-radius: 100%;
+        z-index: -1;
+        margin: auto;
+       
+    }
+    .market_row{
+        display: block;
+    }
+    .basic_row{
+       width: 100%;
+       margin-bottom: 10px;
+    }
+    .table_row{
+        width: 100%;
+        display: block;
+    }
+    .text{
+        text-align: center;
+    }
+    .badge-right ul{
+        justify-content: flex-end;
+        margin-bottom: 2px;
+    }
+    .game_name{
+        font-size: 10px;
+    }
+    .all_casion_game{
+        flex-direction: column-reverse;
+    }
+    .game_provider{
+        width: 100%;
+    }
+    .game_provider ul{
+        width: 100%;
+    }
+    .all_providers{
+        width: 100%;
+    }
+    .game_provider ul li a{
+        justify-content: flex-start;
+        width: 100%;
+    }
+    .casion_tabs{
+        width: 100%;
+    }
+    .casion_tabs ul{
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+    .port-inner{
+        width: 50%;
+    }
+    .sports_col{
+        display: block;
+    }
+    .sports_image img{
+       max-width: 100%;
+    }
+    .download-btn{
+        padding: 20px 0px;
+    }
+    .download_link{
+        width: 140px;
+        height: 45px;
+    }
+    .item_wrapper{
+        display: block;
+    }
+    .top_title{
+        font-size: 25px;
+        text-align: center;
+    }
+    .mid_title{
+        font-size: 25px;
+        text-align: center;
+    }
+    .bottom_title{
+        text-align: center;
+        font-size: 20px;
+    }
+    .carosal_image img{
+        max-width: 50%;
+    }
+    .sport_list{
+        justify-content: center;
+    }
+    .sport_list li a{
+        width: 159px;
+        height: 50px;
+        font-size: 12px;
+    }
+    .carosal_image{
+        display: flex;
+        align-items: center;
+        justify-content:center;
+        padding-top: 20px;
+    }
+    .top_section{
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    .right-arrow{
+        display: none;
+    }
+    .col_btn{
+        width: 100%;
+        margin: 0px 3px 8px;
+    }
+    .title{
+        font-size: 16px;
+        color: #ffffff;
+    }
+    .download-btn{
+        text-align: center;
+    }
+    .app_title_base{
+        text-align: center;
+    }
+    .app_title_base strong{
+        font-size: 25px;
+    }
+    .app_title_base h5 {
+        font-size: 25px;
+    }
+    .testimonial_title h3{
+        font-size: 28px;
+    } 
+    .app_image{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .app_image img{
+        max-width: 50%;
+    }
+    .item_1{
+        text-align: center;
+    }
+    .item{
+        text-align: center;
+    }
+    .social_icon_listing ul{
+        flex-wrap: wrap;
+    }
+    .social_icon_listing ul li a{
+        width: 50%;
+    }
+    .app_wrapper .app_slider .owl-theme  .owl-dot span{
+        display: none;
+    }
+    .tab_part .bottom_tabs{
+        background-color: #000;
+    }
+    .tab_part .bottom_tabs{
+        background-color: #000;
+    }
+    .tab_part .bottom_tabs ul li a{
+        background-color:#1f1f1f;
+    }
+    .tab_part .bottom_tabs ul li .active{
+        background-color: #1f1f1f;
+        box-shadow: unset;
+    }
+    .tab_part .bottom_tabs ul li .active:hover{
+        background-color: #a6de7f;
+    }
+    .tab_part .bottom_tabs ul li a:hover{
+        box-shadow: unset;
+        background: #A6DE7F;
+    }
+    .tab_part .bottom_tabs ul li.big::before{
+        background: #252525;
+        box-shadow: none;
+    }
+    .testimonial-section{
+        background-size: contain;
+        background-position-y: 0%;
+    }
+    .right_icon .right_list  li .active{
+        background-color:#7ab95b;
+        display: inline-flex;
+    }
+    
+}
+   
+@media (max-width: 575.98px) {
+
+
+}
